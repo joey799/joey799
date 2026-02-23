@@ -76,9 +76,7 @@ Ik bouw interfaces die er niet alleen goed uitzien, maar ook goed *aanvoelen*.
 
 ---
 
-```
-— STATISTIEKEN
-```
+
 
 <div align="center">
 

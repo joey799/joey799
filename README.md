@@ -3,7 +3,7 @@
 <br>
 
 ```
-J · O · E · Y   L · O · U · R · E · N · S
+Joey Lourens
 ```
 
 **`SOFTWARE DEVELOPMENT · TECHNIEK COLLEGE ROTTERDAM`**
@@ -104,15 +104,13 @@ J · O · E · Y   L · O · U · R · E · N · S
 
 <br>
 
-**`[ 04 ]`** &nbsp; **STATISTIEKEN**
+
 
 <br>
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joey799&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=555555&icon_color=ffffff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joey799&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=555555)
 
 </div>
 

@@ -50,9 +50,7 @@ Ik bouw interfaces die er niet alleen goed uitzien, maar ook goed *aanvoelen*.
 
 ---
 
-```
-— EXPERTISE
-```
+
 
 ```
 01  FRONTEND DEVELOPMENT    React · JavaScript · TypeScript · Vite
@@ -80,9 +78,7 @@ Ik bouw interfaces die er niet alleen goed uitzien, maar ook goed *aanvoelen*.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joey799&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joey799&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888)
 
 </div>
 

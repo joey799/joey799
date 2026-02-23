@@ -1,4 +1,3 @@
-## Hi there 👋
 <div align="center">
 
 # Joey Lourens
@@ -83,9 +82,9 @@ Ik bouw interfaces die er niet alleen goed uitzien, maar ook goed *aanvoelen*.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jouwusername&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joey799&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jouwusername&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joey799&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888)
 
 </div>
 
@@ -99,10 +98,10 @@ Ik bouw interfaces die er niet alleen goed uitzien, maar ook goed *aanvoelen*.
 📱 +31 6 38 09 73 91
 
 [![Email](https://img.shields.io/badge/Mail_mij-000?style=flat-square&logo=gmail&logoColor=white)](mailto:joeylouresns64@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white)](https://github.com/jouwusername)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white)](https://github.com/joey799)
 
 ---
 
 <div align="center">
-  <sub>Gebouwd met precisie · © Joey Lourens</sub>
+  <sub>© Joey Lourens</sub>
 </div>
